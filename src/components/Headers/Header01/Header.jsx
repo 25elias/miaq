@@ -78,7 +78,7 @@ const Header = () => {
             {
               isMenuOpen ? <FaXmark className="w-5 h-5"/> : <FaBars className="w-5 h-5"/>
             }
-          </button>
+        </button>
       </nav>
 
       {/* Mobile Navigation */}

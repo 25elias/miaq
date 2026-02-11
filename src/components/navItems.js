@@ -1,10 +1,8 @@
 export default
 [
-    {title: "Home", path: "/"},
-    {title: "Rentals", path: "/rentals"},
-    {title: "Blog", path: "/blog"},
+    {title: "Discover", path: "/discover"},
+    {title: "Top destination", path: "/topdestination"},
     {title: "About", path: "/about"},
-    {title: "FAQ", path: "/faq"},
-    {title: "Demos", path: "/demos"},
+    {title: "Blog", path: "/blog"},
     {title: "Contact", path: "/contact"},
 ];

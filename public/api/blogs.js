@@ -4,7 +4,7 @@ export default
 [
     {
         "id": 3,
-        "path": "././course:id",
+        "path": "/",
         "title": "Beach Access Bungalow",
         "image": "/rental_img_1.jpg",
         "category": "Health",
@@ -19,7 +19,7 @@ export default
     },
     {
         "id": 4,
-        "path": "././course:id",
+        "path": "/course:id",
         "title": "Huge Sunny Villa",
         "image": "/rental_img_2.jpg",
         "category": "Health",
@@ -34,7 +34,7 @@ export default
     },
     {
         "id": 5,
-        "path": "././course:id",
+        "path": "/",
         "title": "Paradisos Sea View",
         "image": "/rental_img_3.jpg",
         "category": "Health",
@@ -49,7 +49,7 @@ export default
     },
     {
         "id": 6,
-        "path": "././course:id",
+        "path": "/",
         "title": "Sunny Vill with Pool",
         "image": "/rental_img_3.jpg",
         "category": "Health",
